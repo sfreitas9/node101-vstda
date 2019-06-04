@@ -1,0 +1,19 @@
+
+PostmanRuntime/7.13.0,2019-06-04T17:45:27.295Z,POST,/api/TodoItems/,HTTP/1.1,500,
+ID is not a number
+Name is not a string
+Priority is not a number
+Completed is not a boolean
+PostmanRuntime/7.13.0,2019-06-04T17:46:16.495Z,POST,/api/TodoItems/,HTTP/1.1,500,
+ID is not a number
+Name is not a string
+Priority is not a number
+Completed is not a boolean
+
+PostmanRuntime/7.13.0,2019-06-04T17:47:50.317Z,POST,/api/TodoItems/,HTTP/1.1,500,
+ID is not a number
+Name is not a string
+Priority is not a number
+Completed is not a boolean
+
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.169 Safari/537.36,2019-06-04T17:48:28.809Z,GET,/api/TodoItem,HTTP/1.1,404,
